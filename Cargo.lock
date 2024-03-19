@@ -26,9 +26,9 @@ dependencies = [
 
 [[package]]
 name = "fixedbitset"
-version = "0.4.2"
+version = "0.5.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0ce7134b9999ecaf8bcd65542e436736ef32ddca1b3e06094cb6ec5755203b80"
+checksum = "b5e1d0c934dd7f99df4a0f70ee99a4c5a0538e66571ca3e12aeefc772ff85fa1"
 
 [[package]]
 name = "js-sys"
